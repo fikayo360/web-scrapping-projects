@@ -1,0 +1,32 @@
+{
+  "name": "jobs-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "natural": "^8.0.1",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.16",
+    "path": "^0.12.7",
+    "pg": "^8.13.1",
+    "puppeteer": "^23.2.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
+    "puppeteer-extra-plugin-proxy": "^1.0.2",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-extra-plugin-user-preferences": "^2.4.1",
+    "stopword": "^3.1.1",
+    "uuid": "^11.0.3",
+    "xlsx": "^0.18.5"
+  },
+  "type": "module"
+}
