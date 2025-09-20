@@ -4,23 +4,24 @@ import anonymyse from 'puppeteer-extra-plugin-anonymize-ua'
 import fs from 'fs'
 import xlsx from 'xlsx'
 
-(
-    async function main(){
+    let pageCount = 1
+    
+    async function main(pageCount,location){
         puppeteer.use(StealthPlugin())
         puppeteer.use(anonymyse())
         const browser = await puppeteer.launch({headless:false});
         
         const page = await browser.newPage()
-        await page.goto('https://www.realtor.com/realestateandhomes-search/Los-Angeles_CA/show-newest-listings/sby-6/pg-1', { waitUntil: 'domcontentloaded', timeout: 200000 })
+        await page.goto(`https://www.realtor.com/realestateandhomes-search/${location}/pg-${pageCount}`, { waitUntil: 'domcontentloaded', timeout:0 })
         console.log(`loading url`)
         await page.screenshot({ path: 'listingsLanding.png' })
-        await page.waitForSelector('div.BasePropertyCard_propertyCardWrap__30VCU div.BasePropertyCard_propertyCard__N5tuo');
+        await page.waitForSelector('div.BasePropertyCard_propertyCardWrap__XcZ1c',{timeout:0});
         console.log('gotten listings page')
 
-        await new Promise(resolve => setTimeout(resolve, 60000));
+        await new Promise(resolve => setTimeout(resolve, 30000));
         const properties = await page.evaluate(()=> {
             const listings = []
-            const elements = document.querySelectorAll('div.BasePropertyCard_propertyCardWrap__30VCU').forEach((property) => {
+            const elements = document.querySelectorAll('div.BasePropertyCard_propertyCardWrap__XcZ1c').forEach((property) => {
                 
             listings.push({
                 title : property.querySelector('[data-testid="broker-title"] .BrokerTitle_titleText__RvFV6')?.innerText || null,
@@ -49,5 +50,11 @@ import xlsx from 'xlsx'
         const filePath = './real_estate_listings.xlsx';
         xlsx.writeFile(workbook, filePath);
         await browser.close();
-    } 
-)()
+    }
+
+    const location = 'california'
+
+    while (pageCount <= 4){
+        main(pageCount,location)
+        pageCount++
+    }

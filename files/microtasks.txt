@@ -1,0 +1,397 @@
+Unique Microtask Platforms by Country/Region
+This list focuses on distinctive platforms available in each country, prioritizing local or regional options that may not be available worldwide.
+North America
+United States
+
+Clicksense - Ad clicking platform (Global)
+PaidVerts - Paid ad views (Global)
+Scarlet-Clicks - Ad viewing site (Global)
+Earnably - Videos, offers, surveys (Global)
+GetPaidTo - Various earning methods (Global)
+Timebucks - Ad viewing, surveys, social tasks (Global)
+RewardingWays - Multi-method earning (Global)
+PrizeRebel - Surveys, videos, offers (Global but best in US/UK)
+
+Amazon Mechanical Turk (MTurk) - The original and largest microtask platform
+TaskRabbit - Local task completion with higher per-task pay
+Upwork (micro projects) - Specialized short-term professional tasks
+Prolific Academic - Academic research studies with fair compensation
+Respondent - High-paying market research interviews
+Rev - Transcription and captioning work
+RaterLabs - Search engine evaluation
+UserTesting - Website and app testing with voice recording
+Swagbucks - Consumer surveys and shopping rewards
+InboxDollars - Paid emails and online activities
+User Interviews - Market research with high compensation
+
+Canada
+
+Gigniks - Canadian-based small task marketplace
+Simply Hired Canada - Local task finder
+Jobble - Local gig marketplace
+QReserve - Research task marketplace
+Staffy - Shift-based microtasks
+
+Mexico
+
+Workana - Latin American freelance marketplace with microtasks
+Homejoy Mexico - Home service microtasks
+Yakanna - Mexico-based task marketplace
+AppJobber Mexico - Location-based small tasks
+FieldAgent Mexico - Local retail auditing tasks
+
+South America
+Brazil
+
+Workana - Strong Brazilian presence
+Human Validation (99teste) - Brazil-focused testing platform
+GetNinjas - Brazilian service marketplace
+Vinteconto - Brazilian microwork platform
+Worldpackers - Task exchange platform
+99Freelas - Brazilian freelance platform with microtasks
+Trampos - Creative industry microtasks
+InnoCentive Brazil - Problem-solving challenges
+
+Argentina
+
+Workana - Very popular in Argentina
+Zolvers - Home services marketplace
+Freelancer Argentina - Localized microtask platform
+QuéVaina - Local service tasks
+Nubelo Argentina - Task marketplace
+
+Colombia
+
+Workana - Primary Colombian platform
+LittleBig Job - Colombian task marketplace
+MiCochinito - Colombian microtask platform
+FreelancerLatino - Regional platform with Colombian focus
+Zolvers Colombia - Service tasks
+
+Chile
+
+Workana - Strong Chilean presence
+ChileTrabajos - Local microtask marketplace
+Zolvers Chile - Home service tasks
+Getonbrd - Tech-focused small tasks
+Chilevalue - Chilean task marketplace
+
+Europe
+United Kingdom
+
+Prolific Academic - UK-based research platform
+BeMyEye - Retail audit tasks
+Streetbees - Market research via app
+TaskRabbit UK - Local tasks service
+Roamler - Location-based tasks
+FieldAgent UK - Store audit tasks
+TestingTime - User testing platform
+Cint - UK-focused survey tasks
+Shepper - Physical verification tasks
+Airtasker UK - Local task marketplace
+Taskhub - Small task service
+
+Germany
+
+AppJobber - German retail audit app
+Testbirds - German testing platform
+Twago - German task marketplace
+Streetspotr - Location-based tasks
+CashQuiz - German reward tasks
+TestingTime - German user tests
+Crowd Guru - German content tasks
+Jobmensa - Student-focused tasks
+MyLittleJob - German student tasks
+
+France
+
+Wirk (formerly iSAHit) - French task platform
+FouleFactory - French crowdsourcing platform
+Ferpection - User testing platform
+Jobijoba - French task finder
+Yoopies - Service tasks
+Frizbiz - Home service tasks
+Malt - Professional microtasks
+Jemepropose - Local service platform
+Crème de la Crème - Professional tasks
+
+Spain
+
+Adtriboo - Spanish creative tasks
+Etece - Spanish service marketplace
+Wayook - Home services platform
+FieldAgent Spain - Store audits
+Cronoshare - Spanish task marketplace
+Microtask.es - Spanish platform
+Traity - Task platform with reputation system
+Tucole - Spanish freelance platform
+
+Italy
+
+Melascrivi - Italian content writing
+Be My Eye Italy - Store checks
+Le Cicogne - Local service tasks
+ProntoPro - Professional services
+Vicker - Italian task marketplace
+Soluzioni Lavoro - Italian gig platform
+taskhunter.it - Italian task platform
+
+Netherlands
+
+YoupiJob - Dutch service marketplace
+Roamler - Dutch-founded audit app
+Dropper - Local delivery tasks
+Werkspot - Home service tasks
+Ringring - Local delivery tasks
+Listminut - Local service tasks
+Prijsvergelijken - Testing tasks
+Fixico - Assessment tasks
+
+Poland
+
+Oferia - Polish task marketplace
+SwiatZlecen - Polish gig economy site
+Favore - Local service marketplace
+GdzieTermin - Service tasks
+TakeTask - Polish audit app
+Sir Local - Service tasks
+
+Russia
+
+Toloka (Yandex.Toloka) - Russian tech giant's platform
+YouDo - Russian task marketplace
+Advego - Content writing tasks
+Workzilla - Russian microtask platform
+Kwork - Russian small task platform
+FL.ru - Russian freelance platform
+Profi.ru - Professional service tasks
+Text.ru - Content tasks
+
+Asia
+India
+
+WorkGenius - Task aggregator
+Truelancer - Indian freelance platform
+WorkChest - Indian task platform
+Chegg - Academic microtasks
+TaskBob - Local service tasks
+FlexingIt - Professional tasks
+PicoWorkers - Small task platform
+WorkIndia - Location-based gigs
+Sampinion - Survey platform
+QuikrEasy - Service marketplace
+
+China
+
+ZBJ.com - China's largest task platform
+Witmart - Chinese freelance platform
+iDaTa - Data processing tasks
+Epwk - Chinese task site
+TaskCN - Chinese task platform
+Taskcity - Urban task marketplace
+680 - Chinese microtask site
+k68 - Content tasks
+Weichaishi - Chinese platform
+Zhubajie - Major Chinese platform
+
+Japan
+
+Lancers - Japanese freelance platform
+CrowdWorks - Japanese task platform
+Yahoo! Crowdsourcing - Japan-specific
+Coconala - Japanese skill marketplace
+Shufti - Japanese microtask platform
+TimeTicket - Time-based task platform
+MobWorks - Mobile tasks
+Anytimes - Service tasks
+
+South Korea
+
+Wishket - Korean freelance platform
+Kmong - Korean gig marketplace
+Workerpool - Korean task site
+Soomgo - Service marketplace
+Freemoa - Creative tasks
+Taling - Skill-based tasks
+BaROK - Korean microtask site
+
+Philippines
+
+Raket.ph - Filipino task platform
+Онлайн Капитал - Philippine-targeted platform
+199Jobs - Filipino micro-services
+PHBee - Filipino task platform
+JobKorea Philippines - Task marketplace
+Sprout - Local service tasks
+
+Indonesia
+
+Sribulancer - Indonesian platform
+Jejak - Indonesian task site
+Projects.co.id - Indonesian marketplace
+Fastwork - Indonesian service platform
+GajiHub - Indonesian microtask site
+Sejasa - Service marketplace
+DesignCrowd Indonesia - Creative tasks
+Sribu - Creative marketplace
+
+Malaysia
+
+Kaodim - Malaysian service platform
+GoGet - Malaysian errands platform
+Gaston - Malaysian service marketplace
+ServisHero - Service platform
+MauKerja - Malaysian task site
+MobilePundits - Malaysian testing platform
+
+Singapore
+
+TaskRabbit Singapore - Recent expansion
+GigaGigs - Singaporean platform
+FastJobs - Local small jobs
+GrabJobs - Quick job platform
+JobsCentral - Small task board
+Hijobs - Singaporean gig platform
+
+Vietnam
+
+Vlance - Vietnamese freelance platform
+Gapo Work - Vietnamese task site
+Giupviec - Service tasks
+Okiela - Vietnamese marketplace
+Headhunt - Microtask aggregator
+123job - Short task platform
+
+Thailand
+
+Fastwork - Thai service marketplace
+Seekster - Thai service platform
+FindYourFlex - Thai gig site
+GetEasySales - Sales microtasks
+WorkVenture - Short task platform
+SkillLane - Skill-based tasks
+
+Pakistan
+
+Rozee - Pakistani job platform with microtasks
+PakLancer - Pakistani freelance site
+Gharpar - Service marketplace
+Markhor - Testing platform
+Jugaar - Pakistani task platform
+PakWheels - Automotive microtasks
+
+Africa
+South Africa
+
+M4Jam - South African mobile task platform
+NoSweat - South African service platform
+Names & Faces - Data entry tasks
+PartTimer - Short task platform
+SweepSouth - Service marketplace
+Mintor - South African gig platform
+Zlto - Task rewards platform
+
+Nigeria
+
+Asuqu - Nigerian service marketplace
+Terawork - Nigerian task platform
+Efritin - Nigerian marketplace
+Jiji - Task listings
+QuickTeller - Task-based payments
+TaskMoby - Nigerian platform
+Wesabi - Service tasks
+
+Kenya
+
+Kazi Remote - Kenyan task platform
+Lynk - Kenyan service platform
+Fundis - Service marketplace
+M-Kazi - Mobile task platform
+Sendy - Delivery tasks
+LetsDeel - Kenyan task site
+Ajiry - Short task platform
+
+Egypt
+
+Khamsat - Arabic microtask platform
+Mostaqel - Arabic freelance site
+Taskty - Egyptian service platform
+FilKhedma - Service marketplace
+Shaghlni - Egyptian task site
+Kasrzero - Egyptian service platform
+Del2al2 - Delivery tasks
+
+Ghana
+
+WorKQuest - Ghanaian platform
+Kikuu - Task marketplace
+SusuPlus - Task rewards
+Cribpark - Service tasks
+Express Pay - Task-based payments
+Tonaton - Task listings
+
+Oceania
+Australia
+
+Airtasker - Australian task marketplace
+Sidekicker - Australian service platform
+Oneflare - Service marketplace
+Hipages - Home service tasks
+Workible - Flexible tasks
+Expert360 - Professional microtasks
+Freelancer Australia - Localized platform
+ServiceSeeking - Service marketplace
+
+New Zealand
+
+Student Job Search - NZ student tasks
+Joblist - NZ task platform
+WeirdlyHub - NZ microtasks
+Builderscrack - Service tasks
+Neighbourly Jobs - Local tasks
+Jobdone - NZ task marketplace
+TaskMarket - NZ platform
+
+Key Specialized Platforms by Task Type
+Data Entry & Classification
+
+Figure Eight (formerly CrowdFlower)
+Clickworker
+DataPlus+
+SigTrack
+Working Solutions
+
+Content Moderation
+
+Lionbridge AI
+Teleperformance
+Accenture Content Moderation
+TELUS International
+
+Transcription & Translation
+
+Rev
+TranscribeMe
+GoTranscript
+Gengo
+Unbabel
+Translated
+CastingWords
+
+User Testing
+
+UserTesting
+Userlytics
+TryMyUI
+TestingTime
+UserFeel
+PlaytestCloud (gaming)
+dscout
+
+Academic Studies
+
+Prolific Academic
+Testable
+CloudResearch Connect
+Respondent
+User Interviews
